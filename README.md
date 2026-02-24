@@ -10,7 +10,7 @@ Primary languages used for crafting optimal solutions:
 
 ---
 
-## ![Visitor Count](https://komarev.com/ghpvc/?username=Saurabhsaxena81&label=Repository%20Views&color=blue&style=flat)
+## ![Daily-DSA Views](https://komarev.com/ghpvc/?username=Saurabhsaxena81-DailyDSA&label=Daily-DSA%20Views&color=blue&style=flat)
 
 # 🧠 What to Expect in Each SolutionFor every problem posted here,
 
