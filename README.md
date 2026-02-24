@@ -7,7 +7,10 @@ Maintaining a rigorous daily streak to build deep muscle memory. I am actively t
 Primary languages used for crafting optimal solutions:
 
 - **Java**
-  ![Visitor Count](https://profile-counter.glitch.me/Saurabhsaxena81/count.svg)
+
+---
+
+## ![Visitor Count](https://komarev.com/ghpvc/?username=Saurabhsaxena81&label=Repository%20Views&color=blue&style=flat)
 
 # 🧠 What to Expect in Each SolutionFor every problem posted here,
 
@@ -40,5 +43,3 @@ Let's connect and grow together!
 # ⭐ If you find these solutions helpful, feel free to give this repository a star!
 
 # Keep coding!
-
-![Visitor Count](https://profile-counter.glitch.me/Saurabhsaxena81/count.svg)
